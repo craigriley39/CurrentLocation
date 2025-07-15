@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:weather-gov.github.io)"
+    ],
+    "deny": []
+  }
+}
